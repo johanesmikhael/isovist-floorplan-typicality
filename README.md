@@ -36,7 +36,7 @@ conda create --name typicality-env python=3.8
 # Activate the environment
 conda activate typicality-env
 ```
-2. Install dependencies:
+3. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
