@@ -1,4 +1,4 @@
-# Machine Understanding of Architectural Space: From Analytical to Generative Applications   
+# Latent Distribution: Measuring floor plan typicality with isovist representation learning   
 
 This repository contains the code and models for Latent Norm Mapping, a novel method for analyzing floor plan datasets. The approach leverages Variational Autoencoders (VAEs) to capture spatial regularity and complexity, allowing for the identification of typical and atypical floor plans in a dataset. 
    
