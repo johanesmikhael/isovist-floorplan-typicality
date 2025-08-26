@@ -4,7 +4,7 @@ This repository contains the code and models for Latent Norm Mapping, a novel me
    
 This work is derived from PhD research project "Machine Understanding of Architectural Space: From Analytical to Generative Applications" at EPFL Media and Design Lab (LDM).
 
-**Link to thesis repo** > https://github.com/johanesmikhael/isovist-machine-understanding
+**Link to publication** > https://doi.org/10.1016/j.foar.2025.05.006
 
 ## Repository Structure
 
